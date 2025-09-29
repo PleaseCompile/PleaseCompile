@@ -301,7 +301,7 @@ while (bugs.exist()) {
 
 ### 🛠️ _"There are only 10 types of people: those who understand binary and those who don't"_ 🤖
 
-**Compilation Success Rate:** NaN% (undefined behavior)*  
+**Compilation Success Rate:** NaN% (undefined behavior)
 **Favorite Error Message:** `It works on my machine 🤷‍♂️`
 
 <img src="https://komarev.com/ghpvc/?username=PleaseCompile&style=for-the-badge&color=7C3AED&label=COMPILATION+ATTEMPTS"/>
